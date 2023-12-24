@@ -1,0 +1,10 @@
+keyword: enum
+identifier: color
+special character: {
+identifier: RED
+special character: ,
+identifier: GREEN
+special character: ,
+identifier: YELLOW
+special character: }
+special character: ;

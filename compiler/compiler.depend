@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1703451519 source:c:\users\khale\downloads\test3\compiler\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"scanner.h"
+	"parser.h"
+
+1703424562 source:c:\users\khale\downloads\test3\compiler\scanner.c
+
+1703457307 source:c:\users\khale\downloads\test3\compiler\scanner.cpp
+	"scanner.h"
+
+1703447058 c:\users\khale\downloads\test3\compiler\scanner.h
+	<iostream>
+	<string>
+	<fstream>
+
+1703456959 source:c:\users\khale\downloads\test3\compiler\parser.cpp
+	"parser.h"
+
+1703457938 c:\users\khale\downloads\test3\compiler\parser.h
+	<iostream>
+	<fstream>
+	<vector>
+	<stdexcept>
+
